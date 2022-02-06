@@ -6,7 +6,7 @@ package Cardgame;
 
 /**
  *
- * @author karan chaudhary
+ * @author Karan Chaudhary
  */
 public class CardTrick extends Card {
     private String playername;
