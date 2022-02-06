@@ -25,6 +25,6 @@ public class CardTrick extends Card {
     }
     // Name- Karan Chaudhary
     //STUDENT ID - 991652837
-    //"I'm DONE !"
+    //I'm Done .
     
 }
