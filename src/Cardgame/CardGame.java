@@ -11,7 +11,7 @@ import java.util.Scanner;
 /**
  * This class models a simple card guessing game
  *
- * @author Karan Chaudhary
+ * @author karan chaudhary
  */
 public class CardGame {
 
