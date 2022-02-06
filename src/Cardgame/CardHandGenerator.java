@@ -4,7 +4,7 @@
  */
 package Cardgame;
 /**
- @author karan chaudhary
+ @author Karan Chaudhary
  
  
  */
