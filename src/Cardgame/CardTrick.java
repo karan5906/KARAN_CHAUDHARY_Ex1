@@ -6,7 +6,7 @@ package Cardgame;
 
 /**
  *
- * @author Karan Chaudhary
+ * @author karan chaudhary
  */
 public class CardTrick extends Card {
     private String playername;
@@ -25,6 +25,6 @@ public class CardTrick extends Card {
     }
     // Name- Karan Chaudhary
     //STUDENT ID - 991652837
-    //I'm Done .
+    //I'm Done ! .
     
 }
